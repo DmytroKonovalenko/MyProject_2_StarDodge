@@ -1,0 +1,817 @@
+[Info][Process] Loading Editor Platform...
+[Info][Process] Found Editor Platform: WindowsEditorPlatform
+[Info][Process] Loading for BuildTarget iOS Build Platform...
+[Info][Process] Found Build Platform: DefaultPlatform
+[Info][Process] Loading Dependencies...
+[Info][Process] Found Dependencies: 
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed\UnityEngine
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\WebGLSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\MacStandaloneSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\AndroidPlayer
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\iOSSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\VisionOSPlayer
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\AppleTVSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\LinuxStandaloneSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\MetroSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\MacStandaloneSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\iOSSupport
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\AndroidPlayer
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\AndroidPlayer
+D:\Unity\Editors\2022.3.37f1\Editor\Data\PlaybackEngines\AndroidPlayer
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.visualscripting@1.9.5\Editor\VisualScripting.Core\Dependencies\YamlDotNet
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.burst@1.8.16\Unity.Burst.CodeGen
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Obfuscator.Pro\Plugins
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Obfuscator.Pro\Editor\Plugins
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.burst@1.8.16\Unity.Burst.CodeGen
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.burst@1.8.16\Unity.Burst.CodeGen
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Obfuscator.Pro\Editor\Plugins
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.visualscripting@1.9.5\Editor\VisualScripting.Core\Dependencies\DotNetZip
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.visualscripting@1.9.5\Runtime\VisualScripting.Flow\Dependencies\NCalc
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.burst@1.8.16
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.ide.rider@3.0.34\Rider\Editor
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.visualscripting@1.9.5\Editor\VisualScripting.Core\EditorAssetResources
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\PackageCache\com.unity.burst@1.8.16\Unity.Burst.CodeGen
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Data\Managed
+D:\Unity\Editors\2022.3.37f1\Editor\Managed
+[Info][Process] Loading Helper Assembly Location...
+[Info][Process] For Assemblies: 
+OPS.Obfuscator.dll
+[Info][Process] Found Helper Assemblies Location: 
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Assets\OPS\Obfuscator.Pro\Plugins\OPS.Obfuscator.dll
+[Info][Process] Loading Assembly Location...
+[Info][Process] For Assemblies: 
+Assembly-CSharp.dll
+Assembly-CSharp-firstpass.dll
+[Warning][Process] Could not find Assembly: Assembly-CSharp-firstpass.dll
+[Info][Process] Found Assemblies Location: 
+D:\SoftTeam\Repozitories\MyProject_2_StarDodge\StarDodge\Library\ScriptAssemblies\Assembly-CSharp.dll
+[Info][Process] Start Assembly obfuscation
+[Info][Process] Lock Assemblies
+[Info][Process] Loading Processings Steps...
+[Info][Process] Finished Processings Steps loading.
+[Info][Process] Processing Step: Init Assemblies
+[Info][Preprocess] [Assembly-CSharp] Searching Member References...
+[Info][Preprocess] [Assembly-CSharp] Searching Type References...
+[Info][Process] Finished Step: Init Assemblies
+[Info][Process] Processing Step: Init Methods
+[Info][Preprocess] [Assembly-CSharp] Searching Method Semantics...
+[Info][Process] Finished Step: Init Methods
+[Info][Process] Processing Step: Analyse Strings
+[Info][Analyse] [Assembly-CSharp] Analyse Strings...
+[Info][Analyse Files] Found Strings: 25
+[Info][Process] Finished Step: Analyse Strings
+[Info][Process] Processing Step: Analyse Files
+[Info][Analyse Files] Searching Gui Methods...
+[Info][Analyse Files] Found Gui Methods: 19
+[Info][Process] Finished Step: Analyse Files
+[Info][Process] Processing Step: Analyse Files
+[Info][Analyse Files] Searching Animation Methods...
+[Info][Analyse Files] Found Animation Methods: 0
+[Info][Process] Finished Step: Analyse Files
+[Info][Process] Processing Step: Analyse Files
+[Info][Analyse Files] Searching Unity Types...
+[Info][Process] Finished Step: Analyse Files
+[Info][Process] Processing Step: Analyse Namespaces
+[Info][Analyse] [Assembly-CSharp] Analyse Namespaces...
+[Info][Process] Finished Step: Analyse Namespaces
+[Info][Process] Processing Step: Analyse Types
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Skip Type] [[Assembly-CSharp]Coin] Because of some addon: Reflection and Coroutine [Matchs some String. Have a look at Obfuscator Settings->Advanced->Search matching members.]
+[Info][Process] Finished Step: Analyse Types
+[Info][Process] Processing Step: Analyse Members
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Process] Finished Step: Analyse Members
+[Info][Process] Processing Step: Analyse Methods
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Skip Method] [[Assembly-CSharp]ExitGame::Exit()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]ExitGame::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Garage::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Garage::Previous()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Garage::Next()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Garage::Buy()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Garage::Add()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Garage::Remove()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Garage::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Part::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]RateGame::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]RateGame::OpenWindow()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]RateGame::CloseWindow()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]RateGame::Exit()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]RateGame::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Settings_SAD::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Settings_SAD::ChangeSounds()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Settings_SAD::ChangeVibration()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Settings_SAD::Reset()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Settings_SAD::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]AnimationController::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]AnimationController::OpenWindow()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]AnimationController::CloseWindow()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]AnimationController::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Highscore_SAD::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Highscore_SAD::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::.ctor([netstandard]System.Int32)] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::MoveNext()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader::LoadLevel([netstandard]System.Int32)] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]LoadBar::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]LoadBar::Update()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]LoadBar::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Score_SAD::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Score_SAD::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Wallet::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Wallet::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]CameraController_SAD::LateUpdate()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]CameraController_SAD::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Coin::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Coin::OnTriggerEnter2D([UnityEngine.Physics2DModule]UnityEngine.Collider2D)] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]Coin::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]GameOver::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]GameOver::Continue()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]GameOver::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]ObstacleLineSpawner::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]ObstacleLineSpawner::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]ObstaclesLine::Awake()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]ObstaclesLine::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]ObstaclesLine::Update()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]ObstaclesLine::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Obstacle_SAD::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Obstacle_SAD::Update()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]Obstacle_SAD::OnTriggerEnter2D([UnityEngine.Physics2DModule]UnityEngine.Collider2D)] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]Obstacle_SAD::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]Pause::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]Pause::PauseGame()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Pause::ResumeGame()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]Pause::Update()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]Pause::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]RocketController::Start()] Because of some Addon: Unity [Is Unity Method.]
+[Info][Skip Method] [[Assembly-CSharp]RocketController::Update()] Because of some Addon: Unity [Is Editor Method.]
+[Info][Skip Method] [[Assembly-CSharp]RocketController::MoveLeft()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]RocketController::MoveRight()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]RocketController::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1::.ctor()] Because of some Addon: .Net Framework [Is Special.]
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::System.IDisposable.Dispose()] Method group is defined extern (in some assembly that gets not obfuscated).
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::MoveNext()] Method group is defined extern (in some assembly that gets not obfuscated).
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::MoveNext()] Some other method in method group getting skipped.
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::System.Collections.IEnumerator.Reset()] Method group is defined extern (in some assembly that gets not obfuscated).
+[Info][Skip Method] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::System.Collections.IEnumerator.get_Current()] Method group is defined extern (in some assembly that gets not obfuscated).
+[Info][Process] Finished Step: Analyse Methods
+[Info][Process] Processing Step: Analyse Unity Types
+[Info][Analyse] [Assembly-CSharp] Analyse Unity Types...
+[Info][Process] Finished Step: Analyse Unity Types
+[Info][Process] Processing Step: Find obfuscated name for Members
+[Info][FindName] [Assembly-CSharp] Find Member Names...
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject Garage::buyButton] : a
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject Garage::addButton] : b
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject Garage::removeButton] : c
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI Garage::partName] : d
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI Garage::partPrice] : e
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Transform Garage::rocket] : f
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Transform Garage::part] : g
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation Garage::notEnough] : h
+[Info][Found new Field Name] [[Assembly-CSharp]System.Collections.Generic.List`1<UnityEngine.GameObject> Garage::rocketItems] : i
+[Info][Found new Field Name] [[Assembly-CSharp]System.Collections.Generic.List`1<UnityEngine.GameObject> Garage::partItems] : j
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Garage::partIndex] : k
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Part::price] : l
+[Info][Found new Field Name] [[Assembly-CSharp]System.String RateGame::packageName] : m
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean RateGame::rateGameOpened] : n
+[Info][Found new Field Name] [[Assembly-CSharp]AnimationController RateGame::animationController] : o
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Sprite Settings_SAD::soundOn] : p
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Sprite Settings_SAD::soundOff] : q
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Sprite Settings_SAD::vibrationOn] : r
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Sprite Settings_SAD::vibrationOff] : s
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.UI.Image Settings_SAD::soundImage] : t
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.UI.Image Settings_SAD::vibrationImage] : u
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation AnimationController::anim] : v
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Highscore_SAD::displayWithText] : w
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Highscore_SAD::displayWithTextStatic] : x
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Highscore_SAD::amount] : y
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI Highscore_SAD::highscoreText] : z
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 LevelLoader/<LoadLevelAsync>d__5::<>1__state] : ba
+[Info][Found new Field Name] [[Assembly-CSharp]System.Object LevelLoader/<LoadLevelAsync>d__5::<>2__current] : bb
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 LevelLoader/<LoadLevelAsync>d__5::sceneIndex] : bc
+[Info][Found new Field Name] [[Assembly-CSharp]LevelLoader LevelLoader/<LoadLevelAsync>d__5::<>4__this] : bd
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.AsyncOperation LevelLoader/<LoadLevelAsync>d__5::<operation>5__2] : be
+[Info][Found new Property Name] [[Assembly-CSharp]System.Object LevelLoader/<LoadLevelAsync>d__5::System.Collections.Generic.IEnumerator<System.Object>.Current] : a
+[Info][Found new Property Name] [[Assembly-CSharp]System.Object LevelLoader/<LoadLevelAsync>d__5::System.Collections.IEnumerator.Current] : b
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean LevelLoader::openDoors] : bf
+[Info][Found new Field Name] [[Assembly-CSharp]LoadBar LevelLoader::loadBar] : bg
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation LevelLoader::anim] : v
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single LoadBar::progress] : bh
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Quaternion LoadBar::lastRotation] : bi
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Score_SAD::continueGame] : bj
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Score_SAD::amount] : y
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI Score_SAD::scoreText] : bk
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Wallet::amount] : y
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI Wallet::walletText] : bl
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Transform CameraController_SAD::target] : bm
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single CameraController_SAD::smoothSpeed] : bn
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 CameraController_SAD::offset] : bo
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation Coin::anim] : v
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.AudioSource Coin::audioSource] : bp
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Coin::taken] : bq
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 GameOver::continuePrice] : br
+[Info][Found new Field Name] [[Assembly-CSharp]RocketController GameOver::rocketController] : bs
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject GameOver::menu] : bt
+[Info][Found new Field Name] [[Assembly-CSharp]TMPro.TextMeshProUGUI GameOver::priceText] : bu
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation GameOver::notEnough] : h
+[Info][Found new Field Name] [[Assembly-CSharp]LevelLoader GameOver::levelLoader] : bv
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean GameOver::crashed] : bw
+[Info][Found new Field Name] [[Assembly-CSharp]GameOver GameOver::instance] : bx
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation GameOver::anim] : v
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 ObstacleLineSpawner::minObstacles] : by
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 ObstacleLineSpawner::maxObstacles] : bz
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single ObstacleLineSpawner::spawnPlace] : ca
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single ObstacleLineSpawner::randomizeObstaclesOffest] : cb
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single ObstacleLineSpawner::coinSpawnRate] : cc
+[Info][Found new Field Name] [[Assembly-CSharp]ObstacleLineSpawner ObstacleLineSpawner::instance] : bx
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 ObstacleLineSpawner::lineIndex] : cd
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single ObstaclesLine::speed] : ce
+[Info][Found new Field Name] [[Assembly-CSharp]System.Collections.Generic.List`1<UnityEngine.GameObject> ObstaclesLine::obstacles] : cf
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject ObstaclesLine::coin] : cg
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single ObstaclesLine::duration] : ch
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 ObstaclesLine::startPos] : ci
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 ObstaclesLine::endPos] : cj
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean ObstaclesLine::newLineSpawned] : ck
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single Obstacle_SAD::speed] : ce
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Obstacle_SAD::crashed] : bw
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.AudioSource Obstacle_SAD::audioSource] : bp
+[Info][Found new Field Name] [[Assembly-CSharp]RocketController Pause::rocketController] : bs
+[Info][Found new Field Name] [[Assembly-CSharp]AnimationController Pause::animationController] : o
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single RocketController::speed] : ce
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single RocketController::changeLanesSpeed] : cl
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Transform RocketController::parts] : cm
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject RocketController::crashedParticles] : cn
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 RocketController::lane] : co
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean RocketController::changingLanes] : cp
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single RocketController::duration] : ch
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 RocketController::startPos] : ci
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 RocketController::endPos] : cj
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean RocketController::paused] : cq
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Animation RocketController::anim] : v
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.AudioSource RocketController::audioSource] : bp
+[Info][Found new Field Name] [[Assembly-CSharp]System.Byte[] UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::FilePathsData] : cr
+[Info][Found new Field Name] [[Assembly-CSharp]System.Byte[] UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TypesData] : cs
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TotalTypes] : ct
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TotalFiles] : cu
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::IsEditorOnly] : cv
+[Info][Found new Field Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=314 <PrivateImplementationDetails>::00CB59047F0996CFDA4F20EFEB7F951D8A8E6CC2D4BCFD3D810E0A881E599D11] : cw
+[Info][Found new Field Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1200 <PrivateImplementationDetails>::218CBF9C793AF59A6589B09D3558D4555A1D2E1109E6AF56B82E8E5E4B89850F] : cx
+[Info][Process] Finished Step: Find obfuscated name for Members
+[Info][Process] Processing Step: Find obfuscated name for Methods
+[Info][FindName] [Assembly-CSharp] Find Method Names...
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::LoadItems()] : a
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::LoadRocket()] : b
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::LoadPart()] : c
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::LoadButton()] : d
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::DisplayButton([netstandard]System.Boolean [netstandard]System.Boolean [netstandard]System.Boolean)] : e
+[Info][Found new Method Name] [[Assembly-CSharp]Garage::ResetButtonRect([UnityEngine.CoreModule]UnityEngine.GameObject)] : f
+[Info][Found new Method Name] [[Assembly-CSharp]RateGame::Rate()] : g
+[Info][Found new Method Name] [[Assembly-CSharp]Settings_SAD::GetSetting([netstandard]System.String)] : h
+[Info][Found new Method Name] [[Assembly-CSharp]Settings_SAD::ChangeSetting([netstandard]System.String [netstandard]System.Int32)] : i
+[Info][Found new Method Name] [[Assembly-CSharp]Settings_SAD::SetSounds()] : j
+[Info][Found new Method Name] [[Assembly-CSharp]Settings_SAD::SetVibration()] : k
+[Info][Found new Method Name] [[Assembly-CSharp]AnimationController::PlayIdle()] : l
+[Info][Found new Method Name] [[Assembly-CSharp]Highscore_SAD::GetAmount()] : m
+[Info][Found new Method Name] [[Assembly-CSharp]Highscore_SAD::SetAmount([netstandard]System.Int32)] : n
+[Info][Found new Method Name] [[Assembly-CSharp]Highscore_SAD::DisplayAmount()] : o
+[Info][Found new Method Name] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : p
+[Info][Found new Method Name] [[Assembly-CSharp]LevelLoader::LoadLevelAsync([netstandard]System.Int32)] : q
+[Info][Found new Method Name] [[Assembly-CSharp]LoadBar::saveRotation()] : r
+[Info][Found new Method Name] [[Assembly-CSharp]Score_SAD::GetAmount()] : s
+[Info][Found new Method Name] [[Assembly-CSharp]Score_SAD::SetAmount([netstandard]System.Int32)] : t
+[Info][Found new Method Name] [[Assembly-CSharp]Score_SAD::DisplayAmount()] : u
+[Info][Found new Method Name] [[Assembly-CSharp]Wallet::GetAmount()] : v
+[Info][Found new Method Name] [[Assembly-CSharp]Wallet::SetAmount([netstandard]System.Int32)] : w
+[Info][Found new Method Name] [[Assembly-CSharp]Wallet::DisplayAmount()] : x
+[Info][Found new Method Name] [[Assembly-CSharp]GameOver::Crashed()] : y
+[Info][Found new Method Name] [[Assembly-CSharp]ObstacleLineSpawner::SpawnLine()] : z
+[Info][Found new Method Name] [[Assembly-CSharp]ObstacleLineSpawner::IncreaseScore()] : ba
+[Info][Found new Method Name] [[Assembly-CSharp]ObstaclesLine::LoadObstacles()] : bb
+[Info][Found new Method Name] [[Assembly-CSharp]ObstaclesLine::LoadCoin()] : bc
+[Info][Found new Method Name] [[Assembly-CSharp]ObstaclesLine::SpawnObstacle([netstandard]System.Int32)] : bd
+[Info][Found new Method Name] [[Assembly-CSharp]ObstaclesLine::SpawnCoin([netstandard]System.Int32)] : be
+[Info][Found new Method Name] [[Assembly-CSharp]ObstaclesLine::SpawnLineOfObstacles()] : bf
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::LoadRocket()] : bg
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::UpdatePosition()] : bh
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::UpdateObstaclesSpeed([netstandard]System.Single)] : bi
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::Pause()] : bj
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::Resume()] : bk
+[Info][Found new Method Name] [[Assembly-CSharp]RocketController::Crashed()] : bl
+[Info][Found new Method Name] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1::Get()] : bm
+[Info][Process] Finished Step: Find obfuscated name for Methods
+[Info][Process] Processing Step: Find obfuscated name for Types
+[Info][FindName] [Assembly-CSharp] Find Type Names...
+[Info][Found new Type Name] [[Assembly-CSharp]ExitGame] : a
+[Info][Found new Type Name] [[Assembly-CSharp]Garage] : b
+[Info][Found new Type Name] [[Assembly-CSharp]Part] : c
+[Info][Found new Type Name] [[Assembly-CSharp]RateGame] : d
+[Info][Found new Type Name] [[Assembly-CSharp]Settings_SAD] : e
+[Info][Found new Type Name] [[Assembly-CSharp]AnimationController] : f
+[Info][Found new Type Name] [[Assembly-CSharp]Highscore_SAD] : g
+[Info][Found new Type Name] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5] : a
+[Info][Found new Type Name] [[Assembly-CSharp]LevelLoader] : h
+[Info][Found new Type Name] [[Assembly-CSharp]LoadBar] : i
+[Info][Found new Type Name] [[Assembly-CSharp]Score_SAD] : j
+[Info][Found new Type Name] [[Assembly-CSharp]Wallet] : k
+[Info][Found new Type Name] [[Assembly-CSharp]CameraController_SAD] : l
+[Info][Found new Type Name] [[Assembly-CSharp]GameOver] : m
+[Info][Found new Type Name] [[Assembly-CSharp]ObstacleLineSpawner] : n
+[Info][Found new Type Name] [[Assembly-CSharp]ObstaclesLine] : o
+[Info][Found new Type Name] [[Assembly-CSharp]Obstacle_SAD] : p
+[Info][Found new Type Name] [[Assembly-CSharp]Pause] : q
+[Info][Found new Type Name] [[Assembly-CSharp]RocketController] : r
+[Info][Found new Type Name] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData] : a
+[Info][Found new Type Name] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1] : s
+[Info][Found new Type Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=314] : a
+[Info][Found new Type Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1200] : b
+[Info][Found new Type Name] [[Assembly-CSharp]<PrivateImplementationDetails>] : t
+[Info][Process] Finished Step: Find obfuscated name for Types
+[Info][Process] Processing Step: Find obfuscated name for Namespaces
+[Info][FindName] [Assembly-CSharp] Find Namespace Names...
+[Info][Found new Namespace Name] [[Assembly-CSharp]ExitGame] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Garage] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Part] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]RateGame] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Settings_SAD] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]AnimationController] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Highscore_SAD] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]LevelLoader] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]LoadBar] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Score_SAD] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Wallet] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]CameraController_SAD] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]GameOver] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]ObstacleLineSpawner] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]ObstaclesLine] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Obstacle_SAD] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]Pause] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]RocketController] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1] : 
+[Info][Found new Namespace Name] [[Assembly-CSharp]<PrivateImplementationDetails>] : 
+[Info][Process] Finished Step: Find obfuscated name for Namespaces
+[Info][Process] Processing Step: Add Not Obfuscated Cause
+[Info][Add Not Obfuscated Cause] [Assembly-CSharp] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]ExitGame] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Garage] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Part] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]RateGame] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Settings_SAD] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]AnimationController] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Highscore_SAD] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]LevelLoader] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]LoadBar] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Score_SAD] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Wallet] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]CameraController_SAD] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Coin] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]GameOver] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]ObstacleLineSpawner] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]ObstaclesLine] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Obstacle_SAD] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]Pause] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]RocketController] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]UnitySourceGeneratedAssemblyMonoScriptTypes_v1] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=314] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1200] Processing...
+[Info][Add Not Obfuscated Cause] [[Assembly-CSharp]<PrivateImplementationDetails>] Processing...
+[Info][Process] Finished Step: Add Not Obfuscated Cause
+[Info][Process] Processing Step: Rename Unity Types
+[Info][PreRename] [Assembly-CSharp] Check Unity Types and Namespaces...
+[Info][Process] Finished Step: Rename Unity Types
+[Info][Process] Processing Step: Rename Fields
+[Info][Rename] [Assembly-CSharp] Rename Fields...
+[Info][Rename Field] [Garage::buyButton] to a
+[Info][Rename Field] [Garage::addButton] to b
+[Info][Rename Field] [Garage::removeButton] to c
+[Info][Rename Field] [Garage::partName] to d
+[Info][Rename Field] [Garage::partPrice] to e
+[Info][Rename Field] [Garage::rocket] to f
+[Info][Rename Field] [Garage::part] to g
+[Info][Rename Field] [Garage::notEnough] to h
+[Info][Rename Field] [Garage::rocketItems] to i
+[Info][Rename Field] [Garage::partItems] to j
+[Info][Rename Field] [Garage::partIndex] to k
+[Info][Rename Field] [Part::price] to l
+[Info][Rename Field] [RateGame::packageName] to m
+[Info][Rename Field] [RateGame::rateGameOpened] to n
+[Info][Rename Field] [RateGame::animationController] to o
+[Info][Rename Field] [Settings_SAD::soundOn] to p
+[Info][Rename Field] [Settings_SAD::soundOff] to q
+[Info][Rename Field] [Settings_SAD::vibrationOn] to r
+[Info][Rename Field] [Settings_SAD::vibrationOff] to s
+[Info][Rename Field] [Settings_SAD::soundImage] to t
+[Info][Rename Field] [Settings_SAD::vibrationImage] to u
+[Info][Rename Field] [AnimationController::anim] to v
+[Info][Rename Field] [Highscore_SAD::displayWithText] to w
+[Info][Rename Field] [Highscore_SAD::displayWithTextStatic] to x
+[Info][Rename Field] [Highscore_SAD::amount] to y
+[Info][Rename Field] [Highscore_SAD::highscoreText] to z
+[Info][Rename Field] [LevelLoader/<LoadLevelAsync>d__5::<>1__state] to ba
+[Info][Rename Field] [LevelLoader/<LoadLevelAsync>d__5::<>2__current] to bb
+[Info][Rename Field] [LevelLoader/<LoadLevelAsync>d__5::sceneIndex] to bc
+[Info][Rename Field] [LevelLoader/<LoadLevelAsync>d__5::<>4__this] to bd
+[Info][Rename Field] [LevelLoader/<LoadLevelAsync>d__5::<operation>5__2] to be
+[Info][Rename Field] [LevelLoader::openDoors] to bf
+[Info][Rename Field] [LevelLoader::loadBar] to bg
+[Info][Rename Field] [LevelLoader::anim] to v
+[Info][Rename Field] [LoadBar::progress] to bh
+[Info][Rename Field] [LoadBar::lastRotation] to bi
+[Info][Rename Field] [Score_SAD::continueGame] to bj
+[Info][Rename Field] [Score_SAD::amount] to y
+[Info][Rename Field] [Score_SAD::scoreText] to bk
+[Info][Rename Field] [Wallet::amount] to y
+[Info][Rename Field] [Wallet::walletText] to bl
+[Info][Rename Field] [CameraController_SAD::target] to bm
+[Info][Rename Field] [CameraController_SAD::smoothSpeed] to bn
+[Info][Rename Field] [CameraController_SAD::offset] to bo
+[Info][Rename Field] [Coin::anim] to v
+[Info][Rename Field] [Coin::audioSource] to bp
+[Info][Rename Field] [Coin::taken] to bq
+[Info][Rename Field] [GameOver::continuePrice] to br
+[Info][Rename Field] [GameOver::rocketController] to bs
+[Info][Rename Field] [GameOver::menu] to bt
+[Info][Rename Field] [GameOver::priceText] to bu
+[Info][Rename Field] [GameOver::notEnough] to h
+[Info][Rename Field] [GameOver::levelLoader] to bv
+[Info][Rename Field] [GameOver::crashed] to bw
+[Info][Rename Field] [GameOver::instance] to bx
+[Info][Rename Field] [GameOver::anim] to v
+[Info][Rename Field] [ObstacleLineSpawner::minObstacles] to by
+[Info][Rename Field] [ObstacleLineSpawner::maxObstacles] to bz
+[Info][Rename Field] [ObstacleLineSpawner::spawnPlace] to ca
+[Info][Rename Field] [ObstacleLineSpawner::randomizeObstaclesOffest] to cb
+[Info][Rename Field] [ObstacleLineSpawner::coinSpawnRate] to cc
+[Info][Rename Field] [ObstacleLineSpawner::instance] to bx
+[Info][Rename Field] [ObstacleLineSpawner::lineIndex] to cd
+[Info][Rename Field] [ObstaclesLine::speed] to ce
+[Info][Rename Field] [ObstaclesLine::obstacles] to cf
+[Info][Rename Field] [ObstaclesLine::coin] to cg
+[Info][Rename Field] [ObstaclesLine::duration] to ch
+[Info][Rename Field] [ObstaclesLine::startPos] to ci
+[Info][Rename Field] [ObstaclesLine::endPos] to cj
+[Info][Rename Field] [ObstaclesLine::newLineSpawned] to ck
+[Info][Rename Field] [Obstacle_SAD::speed] to ce
+[Info][Rename Field] [Obstacle_SAD::crashed] to bw
+[Info][Rename Field] [Obstacle_SAD::audioSource] to bp
+[Info][Rename Field] [Pause::rocketController] to bs
+[Info][Rename Field] [Pause::animationController] to o
+[Info][Rename Field] [RocketController::speed] to ce
+[Info][Rename Field] [RocketController::changeLanesSpeed] to cl
+[Info][Rename Field] [RocketController::parts] to cm
+[Info][Rename Field] [RocketController::crashedParticles] to cn
+[Info][Rename Field] [RocketController::lane] to co
+[Info][Rename Field] [RocketController::changingLanes] to cp
+[Info][Rename Field] [RocketController::duration] to ch
+[Info][Rename Field] [RocketController::startPos] to ci
+[Info][Rename Field] [RocketController::endPos] to cj
+[Info][Rename Field] [RocketController::paused] to cq
+[Info][Rename Field] [RocketController::anim] to v
+[Info][Rename Field] [RocketController::audioSource] to bp
+[Info][Rename Field] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::FilePathsData] to cr
+[Info][Rename Field] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TypesData] to cs
+[Info][Rename Field] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TotalTypes] to ct
+[Info][Rename Field] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::TotalFiles] to cu
+[Info][Rename Field] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData::IsEditorOnly] to cv
+[Info][Rename Field] [<PrivateImplementationDetails>::00CB59047F0996CFDA4F20EFEB7F951D8A8E6CC2D4BCFD3D810E0A881E599D11] to cw
+[Info][Rename Field] [<PrivateImplementationDetails>::218CBF9C793AF59A6589B09D3558D4555A1D2E1109E6AF56B82E8E5E4B89850F] to cx
+[Info][Process] Finished Step: Rename Fields
+[Info][Process] Processing Step: Rename Properties and Events
+[Info][Rename] [Assembly-CSharp] Rename Properties and Events...
+[Info][Dropped Property] [LevelLoader/<LoadLevelAsync>d__5::System.Collections.Generic.IEnumerator<System.Object>.Current]
+[Info][Dropped Property] [LevelLoader/<LoadLevelAsync>d__5::System.Collections.IEnumerator.Current]
+[Info][Process] Finished Step: Rename Properties and Events
+[Info][Process] Processing Step: Rename Methods
+[Info][Rename] [Assembly-CSharp] Rename Methods...
+[Info][Rename Method] [Garage::LoadItems] to a
+[Info][Rename Method] [Garage::LoadRocket] to b
+[Info][Rename Method] [Garage::LoadPart] to c
+[Info][Rename Method] [Garage::LoadButton] to d
+[Info][Rename Method] [Garage::DisplayButton] to e
+[Info][Rename Method] [Garage::ResetButtonRect] to f
+[Info][Rename Method] [RateGame::Rate] to g
+[Info][Rename Method] [Settings_SAD::GetSetting] to h
+[Info][Rename Method] [Settings_SAD::ChangeSetting] to i
+[Info][Rename Method] [Settings_SAD::SetSounds] to j
+[Info][Rename Method] [Settings_SAD::SetVibration] to k
+[Info][Rename Method] [AnimationController::PlayIdle] to l
+[Info][Rename Method] [Highscore_SAD::GetAmount] to m
+[Info][Rename Method] [Highscore_SAD::SetAmount] to n
+[Info][Rename Method] [Highscore_SAD::DisplayAmount] to o
+[Info][Rename Method] [LevelLoader/<LoadLevelAsync>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current] to p
+[Info][Rename Method] [LevelLoader::LoadLevelAsync] to q
+[Info][Rename Method] [LoadBar::saveRotation] to r
+[Info][Rename Method] [Score_SAD::GetAmount] to s
+[Info][Rename Method] [Score_SAD::SetAmount] to t
+[Info][Rename Method] [Score_SAD::DisplayAmount] to u
+[Info][Rename Method] [Wallet::GetAmount] to v
+[Info][Rename Method] [Wallet::SetAmount] to w
+[Info][Rename Method] [Wallet::DisplayAmount] to x
+[Info][Rename Method] [GameOver::Crashed] to y
+[Info][Rename Method] [ObstacleLineSpawner::SpawnLine] to z
+[Info][Rename Method] [ObstacleLineSpawner::IncreaseScore] to ba
+[Info][Rename Method] [ObstaclesLine::LoadObstacles] to bb
+[Info][Rename Method] [ObstaclesLine::LoadCoin] to bc
+[Info][Rename Method] [ObstaclesLine::SpawnObstacle] to bd
+[Info][Rename Method] [ObstaclesLine::SpawnCoin] to be
+[Info][Rename Method] [ObstaclesLine::SpawnLineOfObstacles] to bf
+[Info][Rename Method] [RocketController::LoadRocket] to bg
+[Info][Rename Method] [RocketController::UpdatePosition] to bh
+[Info][Rename Method] [RocketController::UpdateObstaclesSpeed] to bi
+[Info][Rename Method] [RocketController::Pause] to bj
+[Info][Rename Method] [RocketController::Resume] to bk
+[Info][Rename Method] [RocketController::Crashed] to bl
+[Info][Rename Method] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1::Get] to bm
+[Info][Process] Finished Step: Rename Methods
+[Info][Process] Processing Step: Rename Types and Namespaces
+[Info][Rename] [Assembly-CSharp] Rename Type Names and Namespaces...
+[Info][Update Reference Type] [LevelLoader/<LoadLevelAsync>d__5]
+[Info][Rename Reference] [[Assembly-CSharp]LevelLoader/<LoadLevelAsync>d__5] Name: <LoadLevelAsync>d__5
+[Info][Rename Type] [LevelLoader/<LoadLevelAsync>d__5] to a
+[Info][Rename Type] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1/MonoScriptData] to a
+[Info][Rename Namespace] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1] to 
+[Info][Rename Type] [UnitySourceGeneratedAssemblyMonoScriptTypes_v1] to s
+[Info][Rename Type] [<PrivateImplementationDetails>/__StaticArrayInitTypeSize=314] to a
+[Info][Rename Type] [<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1200] to b
+[Info][Rename Namespace] [<PrivateImplementationDetails>] to 
+[Info][Rename Type] [<PrivateImplementationDetails>] to t
+[Info][Process] Finished Step: Rename Types and Namespaces
+[Info][Process] Processing Step: Rename Unity Types and Namespaces
+[Info][Rename] [Assembly-CSharp] Rename Unity Type Names and Namespaces...
+[Info][Rename Namespace] [ExitGame] to 
+[Info][Rename Type] [ExitGame] to a
+[Info][Rename Namespace] [Garage] to 
+[Info][Rename Type] [Garage] to b
+[Info][Rename Namespace] [Part] to 
+[Info][Rename Type] [Part] to c
+[Info][Rename Namespace] [RateGame] to 
+[Info][Rename Type] [RateGame] to d
+[Info][Rename Namespace] [Settings_SAD] to 
+[Info][Rename Type] [Settings_SAD] to e
+[Info][Rename Namespace] [AnimationController] to 
+[Info][Rename Type] [AnimationController] to f
+[Info][Rename Namespace] [Highscore_SAD] to 
+[Info][Rename Type] [Highscore_SAD] to g
+[Info][Rename Namespace] [LevelLoader] to 
+[Info][Rename Type] [LevelLoader] to h
+[Info][Rename Namespace] [LoadBar] to 
+[Info][Rename Type] [LoadBar] to i
+[Info][Rename Namespace] [Score_SAD] to 
+[Info][Rename Type] [Score_SAD] to j
+[Info][Rename Namespace] [Wallet] to 
+[Info][Rename Type] [Wallet] to k
+[Info][Rename Namespace] [CameraController_SAD] to 
+[Info][Rename Type] [CameraController_SAD] to l
+[Info][Rename Namespace] [GameOver] to 
+[Info][Rename Type] [GameOver] to m
+[Info][Rename Namespace] [ObstacleLineSpawner] to 
+[Info][Rename Type] [ObstacleLineSpawner] to n
+[Info][Rename Namespace] [ObstaclesLine] to 
+[Info][Rename Type] [ObstaclesLine] to o
+[Info][Rename Namespace] [Obstacle_SAD] to 
+[Info][Rename Type] [Obstacle_SAD] to p
+[Info][Rename Namespace] [Pause] to 
+[Info][Rename Type] [Pause] to q
+[Info][Rename Namespace] [RocketController] to 
+[Info][Rename Type] [RocketController] to r
+[Info][Process] Finished Step: Rename Unity Types and Namespaces
+[Info][Process] Processing Step: Rename Parameters
+[Info][Rename] [Assembly-CSharp] Rename Parameter...
+[Info][Process] Finished Step: Rename Parameters
+[Info][Process] Processing Step: Add SuppressIldasmAttribute
+[Info][SuppressIldasmAttribute] [Assembly-CSharp] Add to assembly the SuppressIldasmAttribute...
+[Info][Process] Finished Step: Add SuppressIldasmAttribute
+[Info][Process] Processing Step: Obfuscate Strings
+[Info][String] [Assembly-CSharp] Processing String Obfuscation ...
+[Info][StringObfuscation] String 'PartBought-' got Obfuscated to byte Code: 'HGFydEJvdWdodC0='.
+[Info][StringObfuscation] String 'Not-Enough-In' got Obfuscated to byte Code: 'Am90LUVub3VnaC1Jbg=='.
+[Info][StringObfuscation] String 'PartAdded-' got Obfuscated to byte Code: 'i2FydEFkZGVkLQ=='.
+[Info][StringObfuscation] String 'PartAdded-' got Obfuscated to byte Code: '7mFydEFkZGVkLQ=='.
+[Info][StringObfuscation] String 'Base' got Obfuscated to byte Code: 'wGFzZQ=='.
+[Info][StringObfuscation] String 'PartAdded-' got Obfuscated to byte Code: 'U2FydEFkZGVkLQ=='.
+[Info][StringObfuscation] String 'PartBought-' got Obfuscated to byte Code: 'N2FydEJvdWdodC0='.
+[Info][StringObfuscation] String 'PartAdded-' got Obfuscated to byte Code: 'N2FydEFkZGVkLQ=='.
+[Info][StringObfuscation] String 'GameWasRated' got Obfuscated to byte Code: 'WGFtZVdhc1JhdGVk'.
+[Info][StringObfuscation] String 'GameWasRated' got Obfuscated to byte Code: 'w2FtZVdhc1JhdGVk'.
+[Info][StringObfuscation] String 'https://play.google.com/store/apps/details?id=' got Obfuscated to byte Code: '7HR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPQ=='.
+[Info][StringObfuscation] String 'Sounds' got Obfuscated to byte Code: 'hm91bmRz'.
+[Info][StringObfuscation] String 'Sounds' got Obfuscated to byte Code: 'hm91bmRz'.
+[Info][StringObfuscation] String 'Sounds' got Obfuscated to byte Code: 'hm91bmRz'.
+[Info][StringObfuscation] String 'Vibration' got Obfuscated to byte Code: '02licmF0aW9u'.
+[Info][StringObfuscation] String 'Vibration' got Obfuscated to byte Code: '02licmF0aW9u'.
+[Info][StringObfuscation] String 'Vibration' got Obfuscated to byte Code: '02licmF0aW9u'.
+[Info][StringObfuscation] String 'Sounds' got Obfuscated to byte Code: 'kG91bmRz'.
+[Info][StringObfuscation] String 'Vibration' got Obfuscated to byte Code: 'NmlicmF0aW9u'.
+[Info][StringObfuscation] String '-Idle' got Obfuscated to byte Code: 'eElkbGU='.
+[Info][StringObfuscation] String 'Window-In' got Obfuscated to byte Code: 'sWluZG93LUlu'.
+[Info][StringObfuscation] String 'Window-Out' got Obfuscated to byte Code: 'nmluZG93LU91dA=='.
+[Info][StringObfuscation] String 'HighscoreAmount_SAD' got Obfuscated to byte Code: 'A2lnaHNjb3JlQW1vdW50X1NBRA=='.
+[Info][StringObfuscation] String 'HighscoreAmount_SAD' got Obfuscated to byte Code: 'iWlnaHNjb3JlQW1vdW50X1NBRA=='.
+[Info][StringObfuscation] String 'TOP: ' got Obfuscated to byte Code: 'L09QOiA='.
+[Info][StringObfuscation] String 'OpenDoors' got Obfuscated to byte Code: '7HBlbkRvb3Jz'.
+[Info][StringObfuscation] String 'CloseDoors' got Obfuscated to byte Code: 'Mmxvc2VEb29ycw=='.
+[Info][StringObfuscation] String 'WalletAmount' got Obfuscated to byte Code: 'rGFsbGV0QW1vdW50'.
+[Info][StringObfuscation] String 'WalletAmount' got Obfuscated to byte Code: 'lmFsbGV0QW1vdW50'.
+[Info][StringObfuscation] String 'Front' got Obfuscated to byte Code: 'gHJvbnQ='.
+[Info][StringObfuscation] String 'Back' got Obfuscated to byte Code: 'hGFjaw=='.
+[Info][StringObfuscation] String 'Coin-Destroy-Down' got Obfuscated to byte Code: 'hW9pbi1EZXN0cm95LURvd24='.
+[Info][StringObfuscation] String 'Game-Over-In' got Obfuscated to byte Code: '3mFtZS1PdmVyLUlu'.
+[Info][StringObfuscation] String 'Not-Enough-In' got Obfuscated to byte Code: '5W90LUVub3VnaC1Jbg=='.
+[Info][StringObfuscation] String 'Line-' got Obfuscated to byte Code: '5mluZS0='.
+[Info][StringObfuscation] String 'Obstacles' got Obfuscated to byte Code: 'CGJzdGFjbGVz'.
+[Info][StringObfuscation] String 'Coin' got Obfuscated to byte Code: 'U29pbg=='.
+[Info][StringObfuscation] String 'Front' got Obfuscated to byte Code: 'h3JvbnQ='.
+[Info][StringObfuscation] String 'Back' got Obfuscated to byte Code: 'g2Fjaw=='.
+[Info][StringObfuscation] String 'Move-Left' got Obfuscated to byte Code: 'JW92ZS1MZWZ0'.
+[Info][StringObfuscation] String 'Move-Right' got Obfuscated to byte Code: 'z292ZS1SaWdodA=='.
+[Info][StringObfuscation] String 'Base' got Obfuscated to byte Code: '/GFzZQ=='.
+[Info][StringObfuscation] String 'PartAdded-' got Obfuscated to byte Code: '7mFydEFkZGVkLQ=='.
+[Info][StringObfuscation] String 'Vibration' got Obfuscated to byte Code: 'q2licmF0aW9u'.
+[Info][Process] Finished Step: Obfuscate Strings
+[Info][Process] Processing Step: Obfuscate Unity Methods
+[Info][Process] Finished Step: Obfuscate Unity Methods
+[Info][Process] Processing Step: Add random Methods
+[Info][CloneMethods] Random Code generation is deactivated!
+[Info][Process] Finished Step: Add random Methods
+[Info][Process] Unlock Assemblies
+[Info][Process] Finished Assembly obfuscation successfully.
+[Info][None] Start Asset Obfuscation.
+[Info][AssetProcessing] Create file: Obfuscator_UnityObject_RenamingTable.obf
+[Info][None] Finished Asset Obfuscation.
+[Info][Save Assemblies] Saving...
+[Info][Save Assemblies] Saved.
+[Info][None] Start Asset Revert.
+[Info][AssetProcessing] Delete file: Obfuscator_UnityObject_RenamingTable.obf
+[Info][None] Finished Asset Revert.
